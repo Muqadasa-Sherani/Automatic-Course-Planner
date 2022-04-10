@@ -21,3 +21,6 @@ If the program cannot find any possible schedule it prints a message “There is
 Note:
 - There is a pseudocode pdf file in the repository.
 - we used GUI to take information from the students.
+
+Important Note: 
+We ran our code on different IDE’s and some of them could not take up the correct path of the csv files. If you encounter any problem running main.py, write cd python_files in terminal and run the code again. This should solve the problem.
